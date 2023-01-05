@@ -1,0 +1,6 @@
+2 pens 10 1 1000
+3 pins 5 1 1500
+4 pages 3 1 5000
+5 carrots 130 1 45
+6 drink 80 2 250
+7 vegis 5000 10 1000
